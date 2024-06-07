@@ -1,0 +1,286 @@
+invoice_no;customer_id;product_id;category;quantity;payment_method;invoice_date;shopping_mall;Kota Asal
+I227368;C147456;PRD00034;Clothing;2;Mandiri;08/10/2022;Tunjungan Plaza;Pasuruan
+I283492;C221830;PRD00035;Toys;1;Mandiri;28/09/2021;Royal Plaza;Lamongan
+I259412;C108986;PRD00037;Toys;4;BNI;29/03/2021;Pakuwon;Gresik
+I925190;C248510;PRD00043;Clothing;5;BNI;02/04/2021;Gwalk;Lamongan
+I234223;C282899;PRD00057;Cosmetics;4;Mandiri;26/10/2021;Gwalk;Probolinggo
+I616042;C323659;PRD00058;Food & Beverage;3;BNI;17/06/2022;Royal Plaza;Pasuruan
+I148642;C158270;PRD00059;Clothing;1;Mandiri;20/04/2021;Tunjungan Plaza;Lamongan
+I103072;C170969;PRD00033;Cosmetics;4;Mandiri;04/04/2022;Gwalk;Surabaya
+I236668;C111026;PRD00035;Food & Beverage;3;Mandiri;06/05/2021;Tunjungan Plaza;Sidoarjo
+I836239;C760307;PRD00036;Cosmetics;4;Mandiri;13/11/2021;Royal Plaza;Bangkalan
+I249682;C183888;PRD00037;Clothing;3;BCA;03/08/2022;Gwalk;Mojokerto
+I140825;C144823;PRD00038;Cosmetics;2;BNI;04/02/2023;Pakuwon;Probolinggo
+I212235;C315826;PRD00043;Food & Beverage;1;Mandiri;20/01/2021;Pakuwon;Sidoarjo
+I971862;C219304;PRD00045;Clothing;3;BCA;06/11/2022;Royal Plaza;Mojokerto
+I321337;C398415;PRD00047;Clothing;2;Mandiri;23/11/2021;Gwalk;Pasuruan
+I274610;C391672;PRD00048;Souvenir;3;BCA;15/01/2022;Pakuwon;Lamongan
+I678477;C275887;PRD00049;Food & Beverage;3;BCA;06/06/2022;Tunjungan Plaza;Surabaya
+I284282;C822515;PRD00418;Clothing;2;BNI;10/07/2022;Gwalk;Sidoarjo
+I486233;C199664;PRD00420;Clothing;3;BNI;14/03/2022;Tunjungan Plaza;Mojokerto
+I237899;C820137;PRD00421;Cosmetics;4;Mandiri;01/05/2021;Gwalk;Probolinggo
+I198156;C149637;PRD00423;Food & Beverage;4;BNI;26/02/2023;Tunjungan Plaza;Lamongan
+I411189;C743273;PRD00424;Food & Beverage;3;BNI;08/02/2021;Pakuwon;Surabaya
+I225178;C240389;PRD00426;Clothing;5;BNI;10/02/2021;Royal Plaza;Sidoarjo
+I103131;C470346;PRD00427;Toys;4;Mandiri;22/03/2022;Tunjungan Plaza;Bangkalan
+I179619;C423734;PRD00428;Toys;3;Mandiri;11/10/2022;Gwalk;Mojokerto
+I229909;C139077;PRD00429;Clothing;5;Mandiri;10/05/2022;Pakuwon;Probolinggo
+I472142;C842431;PRD00430;Shoes;1;Mandiri;04/08/2021;Tunjungan Plaza;Pasuruan
+I184289;C102301;PRD00431;Toys;2;Mandiri;18/09/2022;Royal Plaza;Lamongan
+I340111;C222159;PRD00432;Shoes;4;Mandiri;01/04/2022;Gwalk;Surabaya
+I208028;C325158;PRD00434;Technology;5;BNI;03/03/2022;Tunjungan Plaza;Sidoarjo
+I406982;C283221;PRD00436;Clothing;2;Mandiri;23/01/2021;Royal Plaza;Mojokerto
+I108662;C141093;PRD00442;Cosmetics;3;BCA;16/09/2021;Gwalk;Sidoarjo
+I443008;C299644;PRD00443;Clothing;3;BNI;30/08/2021;Pakuwon;Bangkalan
+I756144;C141285;PRD00444;Clothing;2;BNI;29/11/2021;Tunjungan Plaza;Mojokerto
+I265543;C116092;PRD00447;Cosmetics;2;BNI;03/10/2022;Pakuwon;Lamongan
+I169324;C152098;PRD00448;Food & Beverage;3;BNI;14/03/2022;Tunjungan Plaza;Surabaya
+I186033;C766767;PRD00449;Books;5;BNI;12/01/2023;Gwalk;Gresik
+I307337;C322195;PRD00450;Shoes;3;Mandiri;25/02/2023;Royal Plaza;Sidoarjo
+I713320;C189364;PRD00452;Technology;1;Mandiri;23/11/2021;Pakuwon;Mojokerto
+I193430;C275695;PRD00421;Clothing;4;BNI;12/05/2021;Royal Plaza;Pasuruan
+I333269;C121380;PRD00427;Shoes;3;BNI;26/05/2021;Gwalk;Mojokerto
+I586154;C788630;PRD00428;Food & Beverage;1;Mandiri;14/12/2021;Pakuwon;Probolinggo
+I264725;C143781;PRD00429;Toys;1;Mandiri;15/07/2022;Tunjungan Plaza;Pasuruan
+I291281;C285797;PRD00430;Technology;1;Mandiri;14/04/2022;Gwalk;Lamongan
+I144506;C174330;PRD00431;Clothing;4;BCA;16/01/2021;Royal Plaza;Surabaya
+I205315;C430942;PRD00432;Cosmetics;5;BNI;03/06/2022;Tunjungan Plaza;Gresik
+I526871;C841591;PRD00435;Food & Beverage;2;Mandiri;12/04/2021;Royal Plaza;Mojokerto
+I129187;C716629;PRD00437;Cosmetics;2;BNI;06/08/2022;Gwalk;Pasuruan
+I292336;C512978;PRD00438;Clothing;4;BNI;09/05/2022;Pakuwon;Lamongan
+I122881;C289069;PRD00439;Cosmetics;5;Mandiri;22/05/2021;Tunjungan Plaza;Surabaya
+I240283;C812425;PRD00440;Shoes;4;BNI;10/01/2023;Royal Plaza;Gresik
+I110467;C155221;PRD00442;Clothing;1;Mandiri;08/10/2022;Pakuwon;Bangkalan
+I316054;C251062;PRD00443;Clothing;5;Mandiri;13/10/2022;Tunjungan Plaza;Pasuruan
+I310984;C921649;PRD00421;Cosmetics;2;BCA;26/12/2021;Gwalk;Bangkalan
+I329288;C327823;PRD00422;Food & Beverage;3;BNI;12/05/2022;Royal Plaza;Mojokerto
+I278935;C203598;PRD00423;Toys;2;BNI;14/12/2022;Tunjungan Plaza;Probolinggo
+I243503;C224753;PRD00424;Toys;1;BNI;18/09/2021;Gwalk;Pasuruan
+I214040;C270797;PRD00425;Shoes;4;Mandiri;16/11/2022;Pakuwon;Lamongan
+I289097;C319806;PRD00432;Cosmetics;5;BNI;05/06/2021;Royal Plaza;Pasuruan
+I695490;C206253;PRD00435;Shoes;5;BNI;14/02/2021;Gwalk;Gresik
+I935474;C224881;PRD00437;Cosmetics;2;Mandiri;03/09/2022;Tunjungan Plaza;Bangkalan
+I308383;C321914;PRD00438;Cosmetics;3;Mandiri;20/09/2021;Gwalk;Mojokerto
+I123471;C257469;PRD00442;Food & Beverage;5;BCA;25/03/2022;Gwalk;Surabaya
+I259780;C795627;PRD00443;Clothing;5;Mandiri;27/09/2021;Pakuwon;Gresik
+I276581;C194674;PRD00444;Cosmetics;1;BNI;14/11/2021;Tunjungan Plaza;Sidoarjo
+I187144;C774214;PRD00445;Toys;1;BNI;29/05/2022;Gwalk;Bangkalan
+I200005;C120804;PRD00446;Food & Beverage;1;Mandiri;09/03/2021;Royal Plaza;Mojokerto
+I246910;C156004;PRD00447;Books;2;Mandiri;12/02/2022;Tunjungan Plaza;Probolinggo
+I274783;C596756;PRD00508;Clothing;1;Mandiri;07/03/2022;Pakuwon;Pasuruan
+I149861;C288298;PRD00510;Clothing;4;BCA;05/12/2022;Royal Plaza;Surabaya
+I678783;C148675;PRD00511;Food & Beverage;5;BNI;14/04/2021;Tunjungan Plaza;Gresik
+I283199;C270726;PRD00512;Clothing;5;BNI;04/10/2021;Gwalk;Sidoarjo
+I262240;C105474;PRD00513;Cosmetics;1;BNI;15/01/2023;Pakuwon;Bangkalan
+I255066;C829423;PRD00514;Shoes;2;BNI;07/06/2022;Tunjungan Plaza;Mojokerto
+I110699;C111251;PRD00515;Clothing;4;Mandiri;07/11/2022;Royal Plaza;Probolinggo
+I172592;C269506;PRD00516;Shoes;3;BCA;05/07/2021;Gwalk;Pasuruan
+I197048;C127041;PRD00517;Clothing;1;BNI;22/10/2022;Pakuwon;Lamongan
+I846448;C870412;PRD00518;Cosmetics;1;Mandiri;24/02/2023;Tunjungan Plaza;Surabaya
+I255738;C108367;PRD00519;Food & Beverage;3;BNI;12/04/2022;Gwalk;Gresik
+I338832;C324708;PRD00522;Clothing;5;Mandiri;16/03/2021;Pakuwon;Mojokerto
+I701994;C289614;PRD00523;Food & Beverage;1;Mandiri;09/02/2023;Gwalk;Probolinggo
+I116064;C103877;PRD00524;Shoes;3;Mandiri;28/02/2021;Royal Plaza;Pasuruan
+I210221;C253975;PRD00527;Books;3;Mandiri;29/03/2021;Pakuwon;Gresik
+I240053;C433673;PRD00529;Cosmetics;1;Mandiri;22/05/2022;Royal Plaza;Bangkalan
+I631073;C132270;PRD00532;Shoes;5;BNI;10/04/2021;Tunjungan Plaza;Pasuruan
+I304483;C193793;PRD00533;Toys;5;Mandiri;05/03/2022;Gwalk;Lamongan
+I110493;C320229;PRD00534;Books;2;BCA;20/04/2021;Royal Plaza;Surabaya
+I224918;C275631;PRD00535;Food & Beverage;5;Mandiri;01/11/2022;Tunjungan Plaza;Gresik
+I176867;C462416;PRD00536;Clothing;2;BNI;13/02/2023;Gwalk;Sidoarjo
+I225893;C245407;PRD00537;Souvenir;4;BNI;10/04/2021;Pakuwon;Bangkalan
+I462596;C269497;PRD00538;Food & Beverage;5;Mandiri;25/05/2022;Tunjungan Plaza;Mojokerto
+I990095;C190709;PRD00539;Shoes;2;Mandiri;26/12/2022;Gwalk;Probolinggo
+I177064;C593370;PRD00541;Food & Beverage;4;BCA;21/12/2022;Tunjungan Plaza;Lamongan
+I195795;C191147;PRD00699;Food & Beverage;2;Mandiri;21/11/2022;Gwalk;Gresik
+I316501;C249906;PRD00700;Shoes;4;Mandiri;13/11/2022;Royal Plaza;Sidoarjo
+I105482;C129846;PRD00701;Clothing;5;BCA;17/08/2021;Tunjungan Plaza;Bangkalan
+I269076;C155333;PRD00702;Toys;1;BNI;20/08/2021;Gwalk;Mojokerto
+I235877;C272155;PRD00703;Toys;5;Mandiri;06/03/2021;Pakuwon;Probolinggo
+I404845;C622685;PRD00705;Books;1;BCA;09/04/2021;;Lamongan
+I110354;C288597;PRD00707;Clothing;5;Mandiri;18/08/2022;Tunjungan Plaza;Gresik
+I467431;C724217;PRD00709;Toys;3;BCA;25/06/2021;Pakuwon;Bangkalan
+I175461;C913425;PRD00710;Food & Beverage;3;BNI;26/10/2022;Tunjungan Plaza;Mojokerto
+I193060;C219791;PRD00712;Toys;5;BCA;18/05/2022;Royal Plaza;Pasuruan
+I255430;C981925;PRD00713;Cosmetics;3;BCA;13/02/2023;Tunjungan Plaza;Lamongan
+I123656;C238083;PRD00715;Clothing;2;BNI;21/04/2022;Pakuwon;Gresik
+I338093;C306266;PRD00716;Clothing;4;BCA;27/07/2022;Tunjungan Plaza;Sidoarjo
+I543510;C199858;PRD00717;Technology;1;BNI;27/01/2022;Gwalk;Bangkalan
+I177444;C179915;PRD00718;Clothing;3;Mandiri;09/01/2023;Royal Plaza;Mojokerto
+I248527;C307014;PRD00719;Shoes;1;BCA;30/05/2021;Tunjungan Plaza;Probolinggo
+I103907;C280853;PRD00720;Clothing;4;BNI;04/10/2022;Gwalk;Pasuruan
+I109766;C106066;PRD00721;Food & Beverage;5;BNI;06/11/2022;Pakuwon;Lamongan
+I195981;C257683;PRD00722;Shoes;1;BCA;06/08/2021;Tunjungan Plaza;Surabaya
+I583553;C364009;PRD00723;Souvenir;3;BNI;24/11/2021;Gwalk;Gresik
+I225840;C325548;PRD00724;Food & Beverage;3;Mandiri;20/07/2021;Royal Plaza;Sidoarjo
+I478092;C606953;PRD00725;Souvenir;2;Mandiri;18/03/2021;Tunjungan Plaza;Bangkalan
+I107322;C920331;PRD00726;Clothing;2;Mandiri;21/10/2022;Gwalk;Mojokerto
+I307584;C140413;PRD00727;Cosmetics;1;Mandiri;24/06/2022;Pakuwon;Probolinggo
+I300522;C323469;PRD00728;Cosmetics;5;Mandiri;05/02/2022;Tunjungan Plaza;Pasuruan
+I335770;C336888;PRD00729;Cosmetics;1;Mandiri;08/10/2022;Gwalk;Lamongan
+I226742;C724391;PRD00731;Clothing;3;BNI;12/03/2021;Tunjungan Plaza;Gresik
+I301307;C326699;PRD00873;Technology;5;BNI;30/05/2021;Tunjungan Plaza;Mojokerto
+I270709;C632826;PRD00874;Clothing;2;Mandiri;01/10/2021;Gwalk;Probolinggo
+I390879;C196337;PRD00875;Clothing;2;Mandiri;19/04/2022;Royal Plaza;Pasuruan
+I321342;C831048;PRD00881;Clothing;1;BNI;02/03/2022;Royal Plaza;Mojokerto
+I337040;C804531;PRD00883;Food & Beverage;5;BNI;15/12/2022;Gwalk;Pasuruan
+I223697;C237182;PRD00994;Cosmetics;3;BNI;25/04/2021;Pakuwon;Lamongan
+I117673;C191057;PRD00996;Food & Beverage;4;Mandiri;08/03/2022;Gwalk;Gresik
+I249964;C195284;PRD00997;Toys;3;BNI;25/12/2021;Royal Plaza;Sidoarjo
+I100760;C800785;PRD00998;Books;4;Mandiri;19/01/2021;Tunjungan Plaza;Bangkalan
+I125122;C118689;PRD00002;Shoes;4;BNI;19/07/2022;Pakuwon;Probolinggo
+I831550;C194063;PRD00003;Clothing;4;BNI;04/05/2021;Tunjungan Plaza;Pasuruan
+I147481;C245715;PRD00008;Food & Beverage;5;BNI;16/12/2021;Pakuwon;Bangkalan
+I255446;C126647;PRD00979;Shoes;5;BNI;17/02/2021;Gwalk;Surabaya
+I854848;C278752;PRD00980;Technology;3;BCA;06/05/2021;Pakuwon;Gresik
+I213167;C111668;PRD00981;Clothing;1;BCA;28/07/2021;Tunjungan Plaza;Sidoarjo
+I316677;C119364;PRD00982;Books;4;Mandiri;21/09/2022;Gwalk;Bangkalan
+I127144;C195508;PRD00984;Souvenir;1;BNI;03/11/2022;Tunjungan Plaza;Probolinggo
+I125746;C317968;PRD00985;Toys;1;BNI;18/06/2022;Gwalk;Pasuruan
+I994913;C809683;PRD00986;Cosmetics;1;Mandiri;07/03/2022;Pakuwon;Lamongan
+I634948;C228735;PRD00987;Food & Beverage;3;BNI;03/09/2022;Tunjungan Plaza;Surabaya
+I269024;C278483;PRD00988;Clothing;1;Mandiri;12/08/2022;Gwalk;Gresik
+I264126;C158261;PRD00989;Food & Beverage;2;Mandiri;28/04/2022;Royal Plaza;Sidoarjo
+I140362;C102607;PRD00990;Technology;2;Mandiri;24/10/2021;Tunjungan Plaza;Bangkalan
+I182480;C325166;PRD00993;Food & Beverage;5;BNI;24/05/2022;Tunjungan Plaza;Pasuruan
+I203099;C266175;PRD00028;Clothing;1;BCA;01/12/2021;Gwalk;Lamongan
+I215044;C184322;PRD00030;Cosmetics;1;BNI;19/01/2023;Tunjungan Plaza;Gresik
+I171352;C478668;PRD00031;Clothing;5;BNI;13/10/2021;Gwalk;Sidoarjo
+I340002;C331539;PRD00032;Cosmetics;2;BNI;12/12/2022;Pakuwon;Bangkalan
+I230886;C193813;PRD00033;Cosmetics;3;Mandiri;17/06/2022;Tunjungan Plaza;Mojokerto
+I133005;C716870;PRD00034;Food & Beverage;2;Mandiri;19/12/2021;Gwalk;Probolinggo
+I282711;C168973;PRD00035;Toys;3;BCA;07/06/2022;Royal Plaza;Pasuruan
+I150266;C297748;PRD00036;Toys;5;Mandiri;20/11/2022;Tunjungan Plaza;Lamongan
+I339115;C678680;PRD00037;Clothing;4;Mandiri;27/03/2021;Gwalk;Surabaya
+I185772;C119032;PRD00038;Food & Beverage;3;Mandiri;13/01/2022;Pakuwon;Gresik
+I912888;C214164;PRD00041;Toys;4;BCA;17/02/2021;Royal Plaza;Mojokerto
+I238472;C299327;PRD00042;Clothing;1;BNI;17/11/2021;Tunjungan Plaza;Probolinggo
+I581146;C333988;PRD00043;Clothing;5;BNI;11/12/2022;Gwalk;Pasuruan
+I151425;C110568;PRD00044;Clothing;5;BCA;12/05/2022;Pakuwon;Lamongan
+I252733;C132150;PRD00045;Books;5;Mandiri;17/05/2022;Tunjungan Plaza;Surabaya
+I176351;C224260;PRD00046;Clothing;2;Mandiri;20/02/2021;Gwalk;Gresik
+I221786;C314993;PRD00044;Clothing;4;Mandiri;15/04/2021;Royal Plaza;Sidoarjo
+I328774;C183588;PRD00045;Food & Beverage;1;BNI;26/06/2021;Tunjungan Plaza;Bangkalan
+I214882;C582997;PRD00050;Souvenir;2;BNI;07/08/2022;Royal Plaza;Surabaya
+I166473;C240916;PRD00051;Clothing;5;Mandiri;20/03/2022;Tunjungan Plaza;Gresik
+I178412;C108007;PRD00052;Shoes;5;Mandiri;23/11/2022;Gwalk;Sidoarjo
+I261248;C104963;PRD00053;Souvenir;1;Mandiri;26/02/2021;Pakuwon;Bangkalan
+I147152;C286640;PRD00054;Books;1;Mandiri;18/04/2021;Tunjungan Plaza;Mojokerto
+I215582;C129686;PRD00056;Cosmetics;4;BNI;29/12/2021;Royal Plaza;Pasuruan
+I331938;C864800;PRD00057;Cosmetics;1;BNI;14/07/2022;Tunjungan Plaza;Lamongan
+I176706;C223982;PRD00058;Cosmetics;1;BNI;21/01/2021;Gwalk;Surabaya
+I306370;C158827;PRD00059;Shoes;4;BNI;19/01/2023;Pakuwon;Gresik
+I894668;C253252;PRD00033;Technology;1;Mandiri;12/09/2022;Tunjungan Plaza;Sidoarjo
+I163001;C592891;PRD00034;Cosmetics;3;BCA;19/06/2021;Gwalk;Bangkalan
+I216555;C287380;PRD00035;Clothing;1;BNI;15/05/2021;Royal Plaza;Mojokerto
+I247751;C897202;PRD00036;Clothing;3;Mandiri;04/11/2021;Tunjungan Plaza;Probolinggo
+I167097;C101074;PRD00046;Clothing;2;BNI;25/09/2021;Tunjungan Plaza;Surabaya
+I339998;C299567;PRD00049;Food & Beverage;3;Mandiri;17/11/2022;Pakuwon;Bangkalan
+I101862;C352919;PRD00050;Shoes;2;Mandiri;02/12/2022;Tunjungan Plaza;Mojokerto
+I292866;C152959;PRD00051;Clothing;2;Mandiri;06/08/2021;Gwalk;Probolinggo
+I244481;C104690;PRD00052;Clothing;3;Mandiri;12/03/2022;Royal Plaza;Pasuruan
+I287543;C272133;PRD00057;Clothing;5;Mandiri;06/04/2021;Gwalk;Bangkalan
+I181621;C112446;PRD00058;Books;3;Mandiri;03/03/2022;Royal Plaza;Mojokerto
+I282516;C666466;PRD00059;Books;3;BNI;10/08/2022;Tunjungan Plaza;Probolinggo
+I182260;C116531;PRD00033;Food & Beverage;1;BNI;18/04/2021;Gwalk;Pasuruan
+I139323;C171015;PRD00034;Cosmetics;1;Mandiri;03/09/2022;Pakuwon;Lamongan
+I339366;C480735;PRD00035;Clothing;5;BNI;08/06/2021;Tunjungan Plaza;Surabaya
+I192802;C290819;PRD00036;Clothing;2;BCA;25/03/2022;Gwalk;Gresik
+I137934;C202988;PRD00442;Food & Beverage;3;BNI;25/04/2022;Royal Plaza;Sidoarjo
+I322245;C306346;PRD00443;Toys;4;Mandiri;05/06/2021;Tunjungan Plaza;Bangkalan
+I337976;C335131;PRD00433;Food & Beverage;1;Mandiri;26/10/2021;Tunjungan Plaza;Pasuruan
+I174237;C289650;PRD00434;Cosmetics;1;Mandiri;12/02/2023;Gwalk;Lamongan
+I231403;C230619;PRD00435;Cosmetics;5;Mandiri;06/02/2023;Royal Plaza;Surabaya
+I115471;C832397;PRD00436;Clothing;5;BCA;06/11/2021;Tunjungan Plaza;Gresik
+I208105;C524507;PRD00441;Clothing;3;Mandiri;26/10/2021;Royal Plaza;Pasuruan
+I565725;C230270;PRD00442;Shoes;3;Mandiri;24/06/2021;Tunjungan Plaza;Lamongan
+I858783;C307870;PRD00443;Shoes;3;Mandiri;02/02/2022;Gwalk;Surabaya
+I146548;C205178;PRD00445;Clothing;4;Mandiri;19/07/2022;Tunjungan Plaza;Sidoarjo
+I214442;C539840;PRD00453;Cosmetics;3;BCA;15/07/2021;Royal Plaza;Sidoarjo
+I271973;C251005;PRD00421;Clothing;5;BCA;18/08/2021;Tunjungan Plaza;Bangkalan
+I168925;C136395;PRD00422;Technology;3;BCA;01/05/2022;Gwalk;Mojokerto
+I124379;C898202;PRD00423;Books;3;BNI;15/10/2021;Pakuwon;Probolinggo
+I209913;C339508;PRD00425;Books;2;BCA;28/09/2022;Gwalk;Lamongan
+I110823;C334518;PRD00941;Clothing;1;BCA;03/04/2022;Royal Plaza;Surabaya
+I241386;C307477;PRD00942;Clothing;2;Mandiri;29/03/2021;Tunjungan Plaza;Gresik
+I113342;C238833;PRD00943;Clothing;4;BNI;31/01/2022;Gwalk;Sidoarjo
+I288734;C993876;PRD00945;Clothing;4;Mandiri;07/03/2023;Tunjungan Plaza;Mojokerto
+I225004;C195673;PRD00950;Food & Beverage;3;BNI;06/06/2021;Pakuwon;Gresik
+I258797;C773181;PRD00956;Souvenir;5;BNI;14/08/2022;Pakuwon;Lamongan
+I140019;C467287;PRD00957;Shoes;4;BCA;16/09/2021;Tunjungan Plaza;Surabaya
+I299140;C339114;PRD00958;Shoes;5;Mandiri;28/06/2022;Gwalk;Gresik
+I145354;C299514;PRD00959;Clothing;5;BNI;29/12/2021;Royal Plaza;Sidoarjo
+I212471;C163011;PRD00960;Cosmetics;1;Mandiri;24/07/2022;Tunjungan Plaza;Bangkalan
+I179118;C157064;PRD00962;Souvenir;5;BNI;27/04/2021;Pakuwon;Probolinggo
+I242660;C670293;PRD00963;Food & Beverage;5;Mandiri;21/04/2021;Tunjungan Plaza;Pasuruan
+I488609;C210060;PRD00964;Shoes;3;BNI;17/02/2022;Gwalk;Lamongan
+I184493;C254397;PRD00965;Technology;4;Mandiri;01/10/2022;Royal Plaza;Surabaya
+I178572;C287355;PRD00966;Food & Beverage;1;BNI;06/05/2021;Tunjungan Plaza;Gresik
+I266960;C109885;PRD00968;Souvenir;5;BCA;10/05/2022;Pakuwon;Bangkalan
+I339525;C185502;PRD00004;Clothing;5;Mandiri;22/08/2021;Tunjungan Plaza;Lamongan
+I291779;C184727;PRD00006;Clothing;2;Mandiri;21/10/2021;Pakuwon;Gresik
+I224157;C551975;PRD00007;Cosmetics;3;BCA;22/03/2022;Tunjungan Plaza;Sidoarjo
+I907658;C107258;PRD00009;Shoes;1;Mandiri;26/04/2022;Royal Plaza;Mojokerto
+I145770;C709824;PRD00977;Technology;4;BNI;06/01/2023;Gwalk;Pasuruan
+I252778;C339202;PRD00978;Shoes;1;BNI;12/07/2022;Pakuwon;Lamongan
+I364470;C162162;PRD00979;Shoes;2;BCA;24/01/2023;Tunjungan Plaza;Surabaya
+I639644;C682985;PRD00981;Clothing;2;Mandiri;23/07/2022;Royal Plaza;Sidoarjo
+I148485;C309367;PRD00982;Food & Beverage;1;BNI;15/02/2021;Tunjungan Plaza;Bangkalan
+I185724;C175732;PRD00984;Toys;1;Mandiri;27/04/2021;Pakuwon;Probolinggo
+I623959;C103461;PRD00985;Cosmetics;2;Mandiri;09/09/2021;Tunjungan Plaza;Pasuruan
+I222357;C249679;PRD00986;Souvenir;1;BNI;15/08/2022;Gwalk;Lamongan
+I813784;C177475;PRD00988;;2;BCA;27/08/2022;Tunjungan Plaza;Gresik
+I211758;C267852;PRD00001   ;;1;Mandiri;21/02/2022;Gwalk;Sidoarjo
+I270546;C194974;PRD00002;Cosmetics;4;Mandiri;14/06/2022;Pakuwon;Bangkalan
+I162663;C502572;PRD00004;Shoes;3;BCA;03/01/2022;Gwalk;Probolinggo
+I252732;C337111;PRD00005;Technology;1;Mandiri;03/12/2022;Royal Plaza;Pasuruan
+I823227;C243037;PRD00006;Clothing;4;Mandiri;27/05/2022;Tunjungan Plaza;Lamongan
+I185731;C334686;PRD00007;Clothing;1;BNI;10/03/2022;Gwalk;Surabaya
+I309813;C265568;PRD00008;Food & Beverage;2;Mandiri;19/12/2021;Pakuwon;Gresik
+I144011;C119157;PRD00010;Cosmetics;4;BCA;05/03/2021;Gwalk;Bangkalan
+I291710;C559217;PRD00011;Clothing;2;BCA;03/10/2022;Royal Plaza;Mojokerto
+I317106;C521028;PRD00025;Toys;3;Mandiri;27/09/2022;Gwalk;Sidoarjo
+I254078;C122157;PRD00027;Shoes;3;BCA;28/05/2021;Tunjungan Plaza;Mojokerto
+I120038;C228472;PRD00029;Clothing;4;Mandiri;25/10/2021;Royal Plaza;Pasuruan
+I208560;C209723;PRD00030;Cosmetics;5;BNI;23/11/2021;Tunjungan Plaza;Lamongan
+I223532;C160421;PRD00031;Toys;5;BCA;22/09/2021;Gwalk;Surabaya
+I129022;C940481;PRD00033;Souvenir;2;Mandiri;29/04/2022;Tunjungan Plaza;Sidoarjo
+I312175;C314546;PRD00034;Cosmetics;3;Mandiri;06/11/2021;Gwalk;Bangkalan
+I780362;C271866;PRD00035;Cosmetics;1;BNI;12/06/2021;Royal Plaza;Mojokerto
+I311659;C164577;PRD00036;Food & Beverage;3;Mandiri;19/07/2022;Tunjungan Plaza;Probolinggo
+I760012;C126598;PRD00039;Shoes;5;Mandiri;06/02/2022;Tunjungan Plaza;Surabaya
+I139536;C882358;PRD00040;Food & Beverage;2;BNI;09/11/2021;Gwalk;Gresik
+I500621;C189942;PRD00041;Books;4;Mandiri;20/02/2021;Royal Plaza;Sidoarjo
+I227528;C187110;PRD00042;Clothing;4;BNI;17/01/2023;Tunjungan Plaza;Bangkalan
+I165544;C388552;PRD00043;Food & Beverage;4;Mandiri;04/04/2021;Gwalk;Mojokerto
+I170036;C176312;PRD00045;Souvenir;3;BNI;17/08/2021;Tunjungan Plaza;Pasuruan
+I139920;C229001;PRD00059;Food & Beverage;5;BCA;27/09/2022;Royal Plaza;Mojokerto
+I289344;C197522;PRD00060;Cosmetics;4;BNI;17/01/2023;Tunjungan Plaza;Probolinggo
+I281376;C299443;PRD00061;Shoes;4;BNI;07/10/2021;Gwalk;Pasuruan
+I169319;C151752;PRD00062;Books;4;Mandiri;03/06/2022;Pakuwon;Lamongan
+I328845;C582235;PRD00063;Technology;5;Mandiri;24/05/2021;Tunjungan Plaza;Surabaya
+I228840;C128660;PRD00064;Clothing;2;Mandiri;05/03/2023;Tunjungan Plaza;Gresik
+I227550;C212483;PRD00065;Toys;5;BCA;12/12/2022;Gwalk;Sidoarjo
+I682326;C307855;PRD00071;Technology;5;BCA;25/10/2021;Gwalk;Surabaya
+I175726;C130682;PRD00072;Clothing;2;BNI;16/07/2021;Pakuwon;Gresik
+I133667;C193454;PRD00074;Toys;3;BNI;30/01/2022;Gwalk;Bangkalan
+I420393;C170711;PRD00075;Shoes;4;BNI;02/05/2021;Royal Plaza;Mojokerto
+I313796;C399735;PRD00076;Clothing;2;BCA;23/12/2021;Tunjungan Plaza;Probolinggo
+I205094;C101897;PRD00079;Clothing;4;Mandiri;09/06/2021;Tunjungan Plaza;Surabaya
+I197681;C106311;PRD00080;Clothing;2;Mandiri;15/03/2022;Gwalk;Gresik
+I133290;C334601;PRD00081;Clothing;5;BNI;08/01/2023;Royal Plaza;Sidoarjo
+I267453;C189027;PRD00083;Clothing;5;BNI;31/03/2021;Gwalk;Mojokerto
+I305557;C278541;PRD00084;Food & Beverage;5;BNI;04/04/2022;Pakuwon;Probolinggo
+I340342;C295466;PRD00088;Food & Beverage;1;Mandiri;04/03/2023;Pakuwon;Gresik
+I186496;C145650;PRD00089;Cosmetics;4;BCA;16/08/2022;Tunjungan Plaza;Sidoarjo
+I171740;C279904;PRD00091;Clothing;3;BNI;29/11/2021;Royal Plaza;Mojokerto
+I148062;C223465;PRD00093;Cosmetics;5;BCA;23/12/2021;Pakuwon;Pasuruan
+I416352;C373731;PRD00094;Food & Beverage;3;BNI;12/05/2022;Gwalk;Lamongan
+I163397;C224169;PRD00095;Food & Beverage;1;BNI;19/05/2022;Royal Plaza;Surabaya
+I235220;C276445;PRD00096;Clothing;2;BCA;04/10/2021;Tunjungan Plaza;Gresik
+I143441;C194327;PRD00097;Toys;4;BCA;22/11/2021;Gwalk;Sidoarjo
+I205540;C232136;PRD00098;Clothing;2;BCA;02/06/2021;Pakuwon;Bangkalan
+I109824;C183611;PRD00431;Clothing;1;BNI;20/09/2021;Royal Plaza;Pasuruan
+I336420;C858254;PRD00434;Cosmetics;2;Mandiri;24/04/2022;Gwalk;Gresik
+I697021;C284961;PRD00435;Shoes;5;BNI;11/03/2022;Royal Plaza;Sidoarjo
+I656719;C216268;PRD00436;Clothing;3;Mandiri;27/12/2022;Tunjungan Plaza;Bangkalan
